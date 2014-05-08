@@ -1,3 +1,3 @@
 torus.grunt
 ===========
-my first repo
+1. create a reusable directory infrastructure
